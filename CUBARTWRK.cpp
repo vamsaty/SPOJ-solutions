@@ -109,7 +109,7 @@ int main(){
 		cin>>w>>d;
 		if(!w and !d)
 			break;
-		
+		d
 		int mrow = -10,mcol = -10,row = -1,col = -1;
 		for(int i=0;i<w;i++){
 			cin>>front[i];
