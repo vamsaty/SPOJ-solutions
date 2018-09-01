@@ -39,7 +39,7 @@ int cmp(pi a,pi b){
 
 
 int main(){
-	freopen("in.txt","r",stdin);
+//	freopen("in.txt","r",stdin);
 //	freopen("out.txt","w",stdout);
 	int t;
 	cin>>t;
