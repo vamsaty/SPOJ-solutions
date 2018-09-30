@@ -57,9 +57,6 @@ int check(int i,int j,int w,int d,int v1){
 	return 0;
 }
 
-
-// flag == 0 to print
-// flag == 1 to get the sum
 int print(int d,int w,int flag){
 		
 		if(!flag){
@@ -102,8 +99,8 @@ void manipulate(int i,int j,int up,int left,int u,int l){
 
 
 int main(){
-	freopen("in.txt","r",stdin);
-	freopen("out.txt","w",stdout);
+//	freopen("in.txt","r",stdin);
+//	freopen("out.txt","w",stdout);
 	
 	while(1){
 		cin>>w>>d;

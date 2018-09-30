@@ -1,2 +1,5 @@
 *.exe
 CATM.cpp
+HOMO.cpp
+testing.cpp
+ASCDFIB.cpp
